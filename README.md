@@ -58,5 +58,5 @@ App-Ride/
 - Para funcionamento completo dos mapas, é necessário acesso à internet.
 
 ---
-Desenvolvido por [Seu Nome].
+Desenvolvido por Andrey Rebelatto.
 
