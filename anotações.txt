@@ -1,0 +1,13 @@
+Aplicativo de corridas
+
+Funcionalidades: 
+- Medir a velocidade;
+- Armazenar a velocidade;
+- Latitude e Longitude armazenada;
+- Lista de corridas;
+- Detalhes de corridas;
+
+Telas:
+Index - Com corridas em lista e com botão de adicionar;
+Speedometer - Tela de iniciar uma nova corrida com start/stop e velocimetro;
+Details - Mostra detalhes da corrida
